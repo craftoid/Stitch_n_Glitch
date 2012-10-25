@@ -1,4 +1,3 @@
-
 Stitch ´n´ Glitch
 =================
 
@@ -10,7 +9,7 @@ Stitch ´n´ Glitch
 ![image](http://25.media.tumblr.com/tumblr_maijihXlVZ1qa76y8o1_400.jpg)
 
 
-*by Andrew Healy [stitch-n-glitch.andrewhealy.com](stitch-n-glitch.andrewhealy.com)*
+*by Andrew Healy [stitch-n-glitch.andrewhealy.com](http://stitch-n-glitch.andrewhealy.com)*
 
 *******************************************************
 
